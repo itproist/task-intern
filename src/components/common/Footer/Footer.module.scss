@@ -1,0 +1,13 @@
+.footer {
+  grid-area: footer;
+  background-color: #3d2864;
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 20px 20px -20px inset;
+  &__title {
+    color: #ffffff;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 18px;
+    padding-left: 20px;
+    line-height: 30px;
+    letter-spacing: normal;
+  }
+}
