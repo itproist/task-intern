@@ -1,0 +1,155 @@
+.main {
+  &__title {
+    font-family: Arial, Helvetica, Tahoma, sans-serif;
+    font-size: 24px;
+    color: #222222;
+    line-height: normal;
+    letter-spacing: normal;
+  }
+  &__ricky {
+    color: #3f3f3f;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    line-height: 16.5px;
+    letter-spacing: normal;
+  }
+  &__morty {
+    color: #3f3f3f;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    line-height: 16.5px;
+    letter-spacing: normal;
+  }
+  &__summer {
+    color: #3f3f3f;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    line-height: 16.5px;
+    letter-spacing: normal;
+  }
+  &__beth {
+    color: #3f3f3f;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    line-height: 16.5px;
+    letter-spacing: normal;
+  }
+  &__jerry {
+    color: #3f3f3f;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    line-height: 16.5px;
+    letter-spacing: normal;
+  }
+  &__abadangoUser {
+    color: #3f3f3f;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    line-height: 18.5px;
+    letter-spacing: normal;
+  }
+}
+
+.ricky__img {
+  float: left;
+  margin: 0 20px 0 0;
+}
+
+.morty__img {
+  float: right;
+}
+
+.summer__img {
+  float: left;
+  margin: 0 20px 0 0;
+}
+
+.beth__img {
+  float: right;
+  margin: 0 0 0 20px;
+}
+
+.jerry__img {
+  float: left;
+  margin: 0 20px 0 0;
+}
+
+.abadangoUser__img {
+  float: right;
+}
+
+.main__aside {
+  padding-left: 20px;
+}
+
+.ricky__name {
+  position: absolute;
+  text-decoration: underline;
+  top: 740px;
+  color: #ffd511;
+  background-color: #000000;
+  padding-left: 20px;
+  padding-top: auto;
+  opacity: 65%;
+  width: 190px;
+}
+
+.morty__name {
+  position: absolute;
+  text-decoration: underline;
+  top: 950px;
+  color: #ffd511;
+  background-color: #000000;
+  padding-left: 20px;
+  padding-top: auto;
+  opacity: 65%;
+  width: 190px;
+}
+
+.summer__name {
+  position: absolute;
+  text-decoration: underline;
+  top: 1145px;
+  color: #ffd511;
+  background-color: #000000;
+  padding-left: 20px;
+  padding-top: auto;
+  opacity: 65%;
+  width: 190px;
+}
+
+.beth__name {
+  position: absolute;
+  text-decoration: underline;
+  top: 1340px;
+  color: #ffd511;
+  background-color: #000000;
+  padding-left: 20px;
+  padding-top: auto;
+  opacity: 65%;
+  width: 190px;
+}
+
+.jerry__name {
+  position: absolute;
+  text-decoration: underline;
+  top: 1582.5px;
+  color: #ffd511;
+  background-color: #000000;
+  padding-left: 20px;
+  padding-top: auto;
+  opacity: 65%;
+  width: 190px;
+}
+
+.abadango__name {
+  position: absolute;
+  text-decoration: underline;
+  top: 1805px;
+  color: #ffd511;
+  background-color: #000000;
+  padding-left: 20px;
+  padding-top: auto;
+  opacity: 65%;
+  width: 190px;
+}

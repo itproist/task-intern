@@ -1,7 +1,8 @@
-// import { combineReducers } from "redux";
-// import { appReducer } from "./appReducer";
+import { combineReducers } from 'redux';
+import { imageReducer } from './imageReducer/imageReducer';
+import { nameReducer } from './nameReducer/nameReducer';
 
-// export const rootReducer = combineReducers({
-//     appReducer
-// })
-
+export const rootReducer = combineReducers({
+  imageReducer,
+  nameReducer,
+});
